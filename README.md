@@ -6,7 +6,8 @@
 
 ## Installation
 Copy and paste these commands:
-```git clone https://github.com/DevJ121/devj121-zsh-theme.git
+```
+git clone https://github.com/DevJ121/devj121-zsh-theme.git
 cd devj121-zsh-theme
 mv devj121.zsh-theme ~/.oh-my-zsh/custom/themes/devj121.zsh-theme
 cd ..
