@@ -2,7 +2,7 @@
 
 ## Image
 ![git image](./git_test.png)
-![virtualev image](./virtualenv_test.png)
+![virtualev image](./virtualenv_test.png)[info][info]
 
 ## Installation
 Copy and paste these commands:
@@ -18,3 +18,4 @@ Then, modify your ```.zshrc``` file.
 
 Find ```ZSH_THEME="..."``` line and modify it as ```ZSH_THEME="devj121"```.
 
+[info]: ```devj121.zsh-theme``` file was changed. No RPROMPT anymore. You can see changed file if you'll use virtualenv.
