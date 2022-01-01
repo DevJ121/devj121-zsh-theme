@@ -1,4 +1,4 @@
-PROMPT='$(virtualenv_prompt_info)%{$fg[cyan]%}%~%{$reset_color%} $(git_prompt_info)%(?::%{$fg_bold[red]%}✘)
+PROMPT='%n $(virtualenv_prompt_info)%{$fg[cyan]%}%~%{$reset_color%} $(git_prompt_info)%(?::%{$fg_bold[red]%}✘)
 %{$fg_bold[green]%}❱%{$reset_color%} '
 
 
