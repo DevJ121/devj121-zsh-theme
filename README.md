@@ -7,8 +7,6 @@ ${pwd} branch_name
 username ❯ 
 ```
 
-info : ```devj121.zsh-theme``` was changed. No RPROMPT anymore. You can see changed file if you'll use virtualenv.
-
 ## Installation
 
 Clone this repository and modify your `.zshrc` file.
